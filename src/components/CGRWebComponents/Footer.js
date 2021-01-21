@@ -1,5 +1,5 @@
 import React from 'react'
-import './CGRFooter.css'
+import './Footer.css'
 import instagram from './ChristabossGRLogo-rembg.png'
 import {  Link } from 'react-router-dom'
 import instagramImg from './instagramImage.jpeg'
