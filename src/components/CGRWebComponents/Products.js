@@ -6,7 +6,7 @@ function Products() {
     return (
         <div className='App'> 
             <div className='wrapHeader'>
-                <div className='container-Head'>
+                <div className='container'>
                     <div className='grid-12'>
                         
                         <h1>OUR PRODUCTS</h1>

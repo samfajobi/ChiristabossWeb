@@ -5,7 +5,7 @@ function Services() {
     return (
         <div>
            <div className='AboutImg'>
-               <img src='../images/serviceimg.jpg' alt='gfgf' />
+               <img src='../images/serviceimg2.jpg' alt='gfgf' />
 
            </div>
            <br />

@@ -7,7 +7,7 @@ function Aboutus() {
     return (
        <div>
            <div className='AboutImg'>
-               <img src='../images/DesignPic2.jpg' alt='gfgf' />
+               <img src='../images/Ourserviceimg.jpeg' alt='gfgf' />
 
            </div>
            <br />
