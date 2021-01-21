@@ -11,7 +11,8 @@ function Services() {
            <br />
 
            <div className='AboutSec'>
-               <div className='container'>
+               <div className='AboutSecCont'>
+                   <div className='container'>
                    <h4>SALES OF BUILDING MATERIALS </h4>
                    <p>At CGR, we sell all kinds of building materials such as 
                        concrete blocks of various sizes,cements,sand,
@@ -31,6 +32,9 @@ function Services() {
                    <br />   
                </div>
 
+
+               </div>
+               
            </div>
 
         </div>
