@@ -11,10 +11,6 @@
     color: #8a8a8a ;
     
 }
-
-
-
-
 .Footer h4 {
     
     margin-bottom: 30px;
@@ -44,10 +40,7 @@
 }
 
 .footer-col-3, .footer-col-4 {
-    flex-basis: 13%;
-    
- 
-   
+    flex-basis: 13%; 
 }
 
 ul {
@@ -65,12 +58,6 @@ ul {
     width: 40px;
     height: 33px;
 } 
-@media only screen and (max-width: 600px) {
-    .footer-col-2 img {
-        margin-right: px;
-    }
-}
-
 
 
 
