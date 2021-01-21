@@ -8,7 +8,7 @@ import Products from './components/CGRWebComponents/Products';
 import Projects from './components/CGRWebComponents/Projects';
 import Services from './components/CGRWebComponents/Services';
 import Navbar from './components/CGRWebComponents/Navbar.js'
-import CGRFooter from './components/CGRWebComponents/CGRFooter'
+import CGRFooter from './components/CGRWebComponents/Footer'
 
 
 import {BrowserRouter as Router, Route, Switch } from 'react-router-dom'
