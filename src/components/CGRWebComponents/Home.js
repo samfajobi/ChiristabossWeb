@@ -16,8 +16,7 @@ function Home() {
                                 <img src='../images/servblockimg.jpg' alt='' />
                             </div>
                             <h4 className='grid-title'>
-                                Best In Service Delivery
-                                
+                                Best In Service Delivery 
                             </h4>
                             <p>
                                 At CGR, we are commited to delivering 

@@ -7,15 +7,7 @@ body {
   width: 320px;
 }
 
-.affix {
-  top: 0;
-  width: 100%;
-  z-index: 9999 !important;
-  position: sticky;
-}
-.affix + .container-fluid {
-  padding-top: 70px;
-}
+
 
 .navbar {
   height: 140px;
@@ -32,8 +24,4 @@ body {
 .navbar-dark .navbar-nav .nav-link {
   color: blue;
 }
-.menu-icon {
-  width: 40px;
-  height: 40px;
-  background-color: blue;
-}
+ 
