@@ -11,6 +11,9 @@
     color: #8a8a8a ;
     
 }
+.Footer .container {
+    max-width: 1140px;
+}
 .Footer h4 {
     
     margin-bottom: 30px;
@@ -51,6 +54,10 @@ ul {
     width: 40px;
     padding: 3px;
 }
+.footer-col-4 .img1 img {
+    width: 45px;
+    height: 38px;
+} 
 .footer-col-4 .img2 img {
     width: 36px;
 } 

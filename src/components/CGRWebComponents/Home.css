@@ -7,11 +7,17 @@
     font-family: 'Open Sans', sans-serif;
     font-size: 13px;
 }
-.HomeContent img {
+.HomeContent .container {
+    width: 1140px;
+}
+.HomeContent .img1,.img2,.img3  {
     width: 100%;
 }
 .HomeContent .row {
-    margin: 20px;
+    margin: 0px;
+}
+.HomeContent .img1 {
+    height: 250px;
 }
 
 .HomeContent .img2 {
@@ -24,5 +30,19 @@
     margin-top: 20px;
 
 }
+
+@media only screen and (max-width: 520px) {
+   .HomeContent .row{
+       display: block;
+   }
+   .HomeContent .col-4 {
+       margin-bottom: 40px;
+   }
+
+}
+
+
+
+
 
 

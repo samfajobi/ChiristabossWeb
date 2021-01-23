@@ -2,8 +2,8 @@ import React from 'react'
 import './Footer.css'
 import instagram from './ChristabossGRLogo-rembg.png'
 import {  Link } from 'react-router-dom'
-import instagramImg from './instagramImage.jpeg'
-import facebook from './facebookImg.jpg'
+import instagramImg from './instagramImage-rembg.jpg'
+import facebook from './facebookImg3.png'
 import twitter from './twitterImg2.png'
 
 
@@ -51,7 +51,7 @@ function CGRFooter() {
                         
                             <h4>Visit Us</h4>
                             <ul>
-                                <li>
+                                <li className='img1'>
                                     <Link><img  src={instagramImg} alt=''/></Link>
                                 </li>
                                 <li className='img2'>

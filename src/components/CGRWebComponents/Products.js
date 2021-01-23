@@ -16,7 +16,7 @@ function Products() {
             </div>
 
             <div className='products'>
-                <div className='container'>
+            <div className='container'>
                <div className='row-1'>
                    <div className='col-4'>
                        <div className='card-width'>
@@ -105,7 +105,7 @@ function Products() {
                              <Card style={{ width: '18rem' }}>
                             <Card.Img variant="top" src="../images/aluminiumRoofingSheet2.jpg" />
                             <Card.Body>
-                                <h5>Aluminium Roofing Sheets</h5>
+                                <h5>ALUMINIUM ROOFING SHEETS</h5>
                                 
                             </Card.Body>
                         </Card>  
@@ -117,7 +117,7 @@ function Products() {
                              <Card style={{ width: '18rem' }}>
                             <Card.Img variant="top" src="../images/Pipes.jpg" />
                             <Card.Body>
-                                <h5>Pipes</h5>
+                                <h5>PIPES</h5>
                                 
                             </Card.Body>
                            </Card>
@@ -128,7 +128,7 @@ function Products() {
                             <Card style={{ width: '18rem' }}>
                                 <Card.Img variant="top" src="../images/Tiles2.jpg" />
                                 <Card.Body>
-                                    <h5>Tiles</h5>
+                                    <h5>TILES</h5>
                                     
                                 </Card.Body>
                             </Card> 

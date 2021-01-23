@@ -7,7 +7,7 @@ function Contactus() {
            
            <div className='ContactSec'>
                 
-               <div className='container2'>
+               <div className='container'>
                <div>
                    <br />
                    <h5 className='h5styl'>To contact us, kindly fill out the form below
