@@ -8,7 +8,7 @@ dotenv.config()
 
 
 app.get('/api/form', (req, res) => {
-    res.send('Hello from this side')
+    console.log('Hello from this side')
 })
 
 app.post("/api/form", ( req, res) => {
