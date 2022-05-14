@@ -7,8 +7,13 @@ dotenv.config()
 
 
 
-app.post('/form', (req, res) => {
+app.get('/api/form', (req, res) => {
     res.send('Hello from this side')
+})
+
+app.post("/api/form", ( req, res) => {
+    console.log(req.body)
+
 })
 
 
