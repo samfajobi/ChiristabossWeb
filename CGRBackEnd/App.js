@@ -5,10 +5,10 @@ const app = express();
 
 dotenv.config()
 
-
+app.use(express.json())
 
 app.get('/api/form', (req, res) => {
-    console.log('Hello from this side')
+    res.send('haolllo')
 })
 
 app.post("/api/form", ( req, res) => {
