@@ -2,6 +2,10 @@ body {
   font-family: "Noto Serif", serif;
 }
 
+ul {
+  display: flex;
+}
+
 .navbar-brand img {
   height: 280px;
   width: 320px;
